@@ -65,7 +65,9 @@ By default, the app will be pointing to the Rinkeby test network. You'll need to
 
 You can choose to add an existing safe when the app starts. Please use this existing safe address: `0xb3b83bf204C458B461de9B0CD2739DB152b4fa5A`.
 
-After loading the safe, you can go to **Safe Apps** in the sidebar menu.
+After loading the safe, you can go to the **Apps** in the sidebar menu. Or just open this link directly:
+
+[http://localhost:3000/#/safes/0xb3b83bf204C458B461de9B0CD2739DB152b4fa5A/apps](http://localhost:3000/#/safes/0xb3b83bf204C458B461de9B0CD2739DB152b4fa5A/apps)
 
 ## Running the tests
 
