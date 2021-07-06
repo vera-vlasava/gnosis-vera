@@ -17,11 +17,11 @@ One solution to this problem is to add the ability to mark some Safe Apps as fav
 
 * When the user hovers over an app, a star-like button appears
 * If the user clicks on it, the app becomes a favorite
-* Favorite apps are displayed on top of the list
+* Favorite apps are displayed on top of the list, with a golden ⭐ icon visible
 * A favorite is removed if the user clicks on the ⭐ button again
 * The information about the user's favorite apps should be stored in the local storage
 
-<img width="1085" alt="Screenshot 2021-06-04 at 15 43 17" src="https://user-images.githubusercontent.com/381895/120811557-63f32e80-c54c-11eb-8ea7-899a0cbab93c.png">
+<img width="1004" alt="Screenshot 2021-07-06 at 10 26 46" src="https://user-images.githubusercontent.com/381895/124567945-b9b94000-de44-11eb-9bfa-10f9e60d4e5d.png">
 
 ### Solution hints
 
